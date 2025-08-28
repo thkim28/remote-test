@@ -1,0 +1,13 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.env/
+
+# Build artifacts
+artifacts/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
